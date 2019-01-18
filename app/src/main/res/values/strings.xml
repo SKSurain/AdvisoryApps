@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <!--Login Module-->
+    <string name="login_module_title">Login Module</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="email_hint">surain@skbeon.co</string>
+    <string name="password_hint">surain93839</string>
+    <string name="button_login">Login</string>
+
+    <!--Listing Module-->
+    <string name="listing_module_title">Listing Module</string>
+    <string name="button_logout">Logout</string>
+    <string name="textView_listname_placeholder">This is listName</string>
+    <string name="textView_distance_placeholder">This is distance</string>
+</resources>
